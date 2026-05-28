@@ -42,3 +42,5 @@ This project is a Power BI Sales Dashboard used to analyze business performance 
 - Improved dashboard design skills
 - Learned DAX calculations
 - Practiced data visualization
+## project pdf
+![RETAIL CUSTOMER RETENTION ANALYSIS](https://github.com/pukazharasikumar-crypto/Retail-customer-retention-analysis-powerbi/blob/f6fad9dde374ffc4398c02f4cce1d775c6689361/Retail%20Customer%20Retention%20%20Analytics%20-TARGET/Retail%20Customer%20Retention%20Analytics%20-target%20corperation.pdf)
