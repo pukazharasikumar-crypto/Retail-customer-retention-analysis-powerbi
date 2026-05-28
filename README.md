@@ -18,7 +18,6 @@ This project is a Power BI Sales Dashboard used to analyze business performance 
  
 
 ## Project Screenshots
-## Project Screenshots
 
 ### Customer Segmentation Dashboard
 
