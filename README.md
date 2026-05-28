@@ -20,14 +20,21 @@ This project is a Power BI Sales Dashboard used to analyze business performance 
 ## Project Screenshots
 ## Project Screenshots
 
-![Customer Segment Dashboard](images/Customer segment dashboard.png)
+### Customer Segmentation Dashboard
 
-![KPI Dashboard](images/KPI dashboard.png)
+![Customer Segmentation Dashboard](images/customer-segment-dashboard.png)
 
-![Loyalty and Promotion Impact Dashboard](images/Loyalty and promotion impact dashboard.png)
+### Customer Retention Analytics Dashboard
 
-![Store & Channel Insight Dashboard](images/Store & channel insight dashboard.png)
+![Customer Retention Analytics Dashboard](images/kpi-dashboard.png)
 
+### Loyalty & Promotion Impact Dashboard
+
+![Loyalty & Promotion Impact Dashboard](images/loyalty-promotion-impact-dashboard.png)
+
+### Store/Channel Insights Dashboard
+
+![Store/Channel Insights Dashboard](images/store-channel-dashboard.png)
 
 
 
