@@ -21,7 +21,7 @@ This project is a Power BI Sales Dashboard used to analyze business performance 
 
 ### Customer Segmentation Dashboard
 
-![Customer Segmentation Dashboard](images/customer-segment-dashboard.png)
+![Customer Segmentation Dashboard](https://github.com/pukazharasikumar-crypto/Retail-customer-retention-analysis-powerbi/blob/main/Retail%20Customer%20Retention%20%20Analytics%20-TARGET/image/customer-segment-dashboard.png)
 
 ### Customer Retention Analytics Dashboard
 
