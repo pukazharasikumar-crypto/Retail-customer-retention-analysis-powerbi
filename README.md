@@ -33,7 +33,7 @@ This project is a Power BI Sales Dashboard used to analyze business performance 
 
 ### Store/Channel Insights Dashboard
 
-![Store/Channel Insights Dashboard](images/store-channel-dashboard.png)
+![Store/Channel Insights Dashboard](https://github.com/pukazharasikumar-crypto/Retail-customer-retention-analysis-powerbi/blob/main/Retail%20Customer%20Retention%20%20Analytics%20-TARGET/image/store-channel-dashboard.png)
 
 
 
