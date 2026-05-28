@@ -29,7 +29,7 @@ This project is a Power BI Sales Dashboard used to analyze business performance 
 
 ### Loyalty & Promotion Impact Dashboard
 
-![Loyalty & Promotion Impact Dashboard](images/loyalty-promotion-impact-dashboard.png)
+![Loyalty & Promotion Impact Dashboard](https://github.com/pukazharasikumar-crypto/Retail-customer-retention-analysis-powerbi/blob/main/Retail%20Customer%20Retention%20%20Analytics%20-TARGET/image/loyalty-promotion-impact-dashboard.png)
 
 ### Store/Channel Insights Dashboard
 
